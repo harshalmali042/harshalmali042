@@ -23,5 +23,5 @@
 
 
 ---
-⭐️ From [Harshal Malij](https://github.com/harshalmali042)
+⭐️ From [Harshal Mali](https://github.com/harshalmali042)
 
