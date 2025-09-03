@@ -1,27 +1,48 @@
 # Hi there 👋, I'm Harshal Mali  
 
-**`DevOps Engineer | Cloud Enthusiast | Open Source Contributor`**  
+### DevOps Engineer | Cloud Enthusiast | Open Source Contributor  
 
-🎓 **Engineering Graduate** — University of Mumbai
+🎓 **Engineering Graduate — University of Mumbai**  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 - 🌱 Currently exploring **Docker, Kubernetes, Terraform, GitOps**  
 - 👯 Open to collaborating on **DevOps, Cloud Infrastructure, and Open Source projects**  
 - 🤝 Seeking guidance in **Advanced Kubernetes, Service Mesh, and Cloud Security**  
-- 💬 Ask me about **CI/CD, Infrastructure as Code, Container Orchestration, and Cloud Architecture**  
-- 📫 Reach me at: **[harshalmali4224@gmail.com](mailto:harshalmali@gmail.com)**  
-- ⚡ *Fun fact:* I automate everything… even my coffee machine! ☕  
+- 💬 Ask me about **CI/CD, IaC, Container Orchestration, and Cloud Architecture**  
+- 📫 Reach me at: **harshalmali4224@gmail.com**  
+- ⚡ Fun fact: *I automate everything… even my coffee machine! ☕*  
 
 ---
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh042)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshalmali042)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshalmali4224@gmail.com)
+## 🛠️ DevOps & Cloud Tools  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,ansible,jenkins,terraform,linux,aws" />
+</p>
 
 ---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshalMali&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalMali&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="mailto:harshalmali4224@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/harsh042/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/harshalmali042"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+ 
+
+---
+
+
 ⭐️ From [Harshal Mali](https://github.com/harshalmali042)
-
