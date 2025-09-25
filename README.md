@@ -33,21 +33,20 @@
 
 ---
 
-## 🏆 Achievements & Badges  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshalmali042&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>  
-
----
-
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:harshalmali4224@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harsh042/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/harshalmali042"><img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>  
+  <a href="mailto:harshalmali4224@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/harsh042/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/harshalmali042" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+  
 
 ---
 
